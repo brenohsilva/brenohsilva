@@ -2,7 +2,7 @@
 
 - 🏡 <i>Moro na cidade de Recife, Pernambuco.</i>
 - 🎓 <i>Sou um desenvolvedor FullStack em formação.</i>
-- 🔭 <i>Atualmente Trabalhando como Suporte, porem sempre fazendo projetos com foco no aprendizado!</i>
+- 🔭 <i>Atualmente Trabalhando como Suporte, porém sempre desenvolvendo projetos com foco no aprendizado!</i>
 - 🌱 <i>Atualmente estudando MYSQL e Rest API com Django.
 
 ----------------------------------------------------------------------------------
