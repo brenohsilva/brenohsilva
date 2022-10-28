@@ -1,4 +1,4 @@
-### <i>Olá👋, eu sou Breno Silva! </i>
+### <i>Olá👋, eu sou o Breno Silva! </i>
 
 - 🏡 <i>Moro na cidade de Recife, Pernambuco.</i>
 - 🎓 <i>Sou um desenvolvedor FullStack em formação.</i>
