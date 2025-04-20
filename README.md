@@ -2,21 +2,31 @@
 
 - 🏡 <i>Moro na cidade de Recife, Pernambuco.</i>
 - 🎓 <i>Sou um desenvolvedor FullStack.</i>
+- 🔭 <i> Atualmente estou trabalhando com Angular e bootstrap do lado do Frontend e NestJs do lado do Backend. </i>
 
 ----------------------------------------------------------------------------------
 
 ## :rocket: &nbsp;<i>Skills</i>
 
-<i>Linguagens e Ferramentas</i>
+<i>Linguagens e Ferramentas Frontend</i>
 <div style="display: inline_block">
-   <img align="center" alt="html" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-   <img align="center" alt="css" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />    
    <img align="center" alt="bootstrap" height="70" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />         
-   <img align="center" alt="visualstudeocode" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
+</div>
+
+---------------------------------------------------------------------------------
+
+<i>Linguagens e Ferramentas Backend</i>
+<div style="display: inline_block">
+   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
    <img align="center" alt="python" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="flask" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+   <img align="center" alt="flask" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="flask" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
+
 
 ----------------------------------------------------------------------------------
 
