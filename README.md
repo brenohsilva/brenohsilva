@@ -6,27 +6,6 @@
 
 ----------------------------------------------------------------------------------
 
-## :rocket: &nbsp;<i>Skills</i>
-
-<i>Linguagens e Ferramentas Frontend</i>
-<div style="display: inline_block">
-   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />    
-   <img align="center" alt="bootstrap" height="70" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />         
-   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
-</div>
-
----------------------------------------------------------------------------------
-
-<i>Linguagens e Ferramentas Backend</i>
-<div style="display: inline_block">
-   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="center" alt="javascript" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-   <img align="center" alt="python" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-   <img align="center" alt="flask" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-   <img align="center" alt="flask" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="flask" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
-
 
 ----------------------------------------------------------------------------------
 
